@@ -19,7 +19,7 @@
 
 💬 My expertise includes **Firmware development** and **medical-grade devices**
 
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: **A PCB design is never truly finished—just waiting for the next revision! 🔄📡**
 
 👨‍💻 I'm also a **Freelancer** specializing in embedded systems and PCB design.
  
