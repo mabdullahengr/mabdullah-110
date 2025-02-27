@@ -125,13 +125,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-</p>
+ </p>
 
 <br />
 <br />
