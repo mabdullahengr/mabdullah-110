@@ -71,12 +71,6 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </a>
   <a href="https://www.python.org" target="_blank"> 
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   </a>
@@ -95,10 +89,7 @@
   <a href="https://www.keil.com/" target="_blank">
     <img alt="Keil" src="https://img.shields.io/badge/Keil-%233499BB.svg?style=for-the-badge&logo=keil&logoColor=white" />
   </a>
-  <a href="https://www.microchip.com/" target="_blank">
-    <img alt="PIC" src="https://img.shields.io/badge/Microchip-PIC-20232A?style=for-the-badge&logo=microchip&logoColor=white" />
-  </a>
-  <a href="https://www.autodesk.com/products/eagle/overview" target="_blank">
+ <a href="https://www.autodesk.com/products/eagle/overview" target="_blank">
     <img alt="Eagle" src="https://img.shields.io/badge/Eagle-%23E7002A.svg?style=for-the-badge&logo=autodesk&logoColor=white" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
