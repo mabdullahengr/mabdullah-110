@@ -21,8 +21,6 @@
 
 ⚡ Fun fact: **A PCB design is never truly finished—just waiting for the next revision! 🔄📡**
 
-👨‍💻 I'm also a **Freelancer** specializing in embedded systems and PCB design.
- 
 </div>
 
 
