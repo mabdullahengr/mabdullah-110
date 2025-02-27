@@ -35,25 +35,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
- <hr/>
- 
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiMuhammadAbdullah/hiMuhammadAbdullah/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiMuhammadAbdullah/hiMuhammadAbdullah/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hiMuhammadAbdullah/hiMuhammadAbdullah/output/github-contribution-grid-snake.svg">
-</picture>
-
-  <br/><br/><br/>
-</div>
-
-
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
