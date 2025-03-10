@@ -51,23 +51,6 @@
 
 <hr/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=taozhi8833998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left">
-<a href="https://github.com/hiMuhammadAbdullah" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.instagram.com/hiMuhammadAbdullah" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.linkedin.com/in/hiMuhammadAbdullah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.pinterest.com/hiMuhammadAbdullah" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&&logo=Pinterest&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://twitter.com/hiMuhammadAbdullah" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.youtube.com/@hiMuhammadAbdullah" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.tiktok.com/@hiMuhammadAbdullah" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" style="margin-right: 4px"></a> 
-<a href="https://www.reddit.com/user/hiMuhammadAbdullah" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a>
-</p>
-
-
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
